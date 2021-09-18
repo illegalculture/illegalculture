@@ -6,4 +6,4 @@
 
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/228971558972948491)](https://discord.com/users/228971558972948491)
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/767014732338167843)](https://discord.com/users/767014732338167843)
+
