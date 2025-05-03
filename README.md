@@ -5,5 +5,5 @@
  <a href="https://www.instagram.com/anilufukyildirim" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/152956115464749056)](https://discord.com/users/369118440730001418)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/369118440730001418)](https://discord.com/users/369118440730001418)
 
