@@ -5,5 +5,5 @@
  <a href="https://www.instagram.com/anillufuk" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/369118440730001418)](https://discord.com/users/228971558972948491)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/228971558972948491)](https://discord.com/users/228971558972948491)
 
